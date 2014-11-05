@@ -48,38 +48,38 @@
 
                 <tr>
                     <td><label>Votre style de musique</label></td>
-                    <td><input type="checkbox" name="check1" /><label>Blues</label></td>
-                    <td><input type="checkbox" name="check2" /><label>Classique</label></td>
+                    <td><input type="checkbox" name="check1" value="Blues" /><label>Blues</label></td>
+                    <td><input type="checkbox" name="check2" value="Classique" /><label>Classique</label></td>
                 </tr>
 
                 <tr>
                     <td></td>
-                    <td><input type="checkbox" name="check3" /><label>Country</label></td>
-                    <td><input type="checkbox" name="check4" /><label>Electronique</label></td>
+                    <td><input type="checkbox" name="check3" value="Country" /><label>Country</label></td>
+                    <td><input type="checkbox" name="check4" value="Electronique" /><label>Electronique</label></td>
                 </tr>
 
                 <tr>
                     <td></td>
-                    <td><input type="checkbox" name="check5" /><label>Hip hop</label></td>
-                    <td><input type="checkbox" name="check6" /><label>Jazz</label></td>
+                    <td><input type="checkbox" name="check5" value="Hip hop" /><label>Hip hop</label></td>
+                    <td><input type="checkbox" name="check6" value="Jazz" /><label>Jazz</label></td>
                 </tr>
 
                 <tr>
                     <td></td>
-                    <td><input type="checkbox" name="check7" /><label>Métal</label></td>
-                    <td><input type="checkbox" name="check8" /><label>Pop</label></td>
+                    <td><input type="checkbox" name="check7" value="Métal" /><label>Métal</label></td>
+                    <td><input type="checkbox" name="check8" value="Pop" /><label>Pop</label></td>
                 </tr>
 
                 <tr>
                     <td></td>
-                    <td><input type="checkbox" name="check9" /><label>Reggae</label></td>
-                    <td><input type="checkbox" name="check10" /><label>RNB</label></td>
+                    <td><input type="checkbox" name="check9" value="Reggae" /><label>Reggae</label></td>
+                    <td><input type="checkbox" name="check10" value="RNB" /><label>RNB</label></td>
                 </tr>
 
                 <tr>
                     <td></td>
-                    <td><input type="checkbox" name="check11" /><label>Rock</label></td>
-                    <td><input type="checkbox" name="check12" /><label>Soul</label></td>
+                    <td><input type="checkbox" name="check11" value="Rock" /><label>Rock</label></td>
+                    <td><input type="checkbox" name="check12" value="Soul" /><label>Soul</label></td>
                 </tr>
 
                 <tr>
